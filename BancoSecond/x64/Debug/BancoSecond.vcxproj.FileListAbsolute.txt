@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.AgregarCliente.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.CambiaContra.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Clientes.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Deposito.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Form1.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Inicio.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.ModificarCliente.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Movimientos.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.Retiro.resources
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.vcxproj.GenerateResource.cache
+C:\Users\HP\source\repos\BancoSecond\BancoSecond\x64\Debug\BancoSecond.vcxproj.CopyComplete
